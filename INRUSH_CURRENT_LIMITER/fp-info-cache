@@ -1,4 +1,4 @@
-16922637061859390
+16919380122109390
 Battery
 BatteryHolder_Bulgin_BX0036_1xC
 Bulgin Battery Holder, BX0036, Battery Type C (https://www.bulgin.com/products/pub/media/bulgin/data/Battery_holders.pdf)
@@ -66548,20 +66548,6 @@ Particle P1
 0
 75
 75
-RF_Module
-RAK811
-RAK811 LPWAN Module https://downloads.rakwireless.com/LoRa/RAK811/Hardware_Specification/RAK811_LoRa_Module_Datasheet_V1.4.pdf
-LoRa LoRaWAN RAK811
-0
-34
-34
-RF_Module
-RAK4200
-RAK4200 LPWAN Module https://downloads.rakwireless.com/LoRa/RAK4200/Hardware-Specification/RAK4200_Module_Specifications_V1.4.pdf
-LoRa LoRaWAN RAK4200
-0
-20
-20
 RF_Module
 RFDigital_RFD77101
 RFDigital RFD77101 Simblee
