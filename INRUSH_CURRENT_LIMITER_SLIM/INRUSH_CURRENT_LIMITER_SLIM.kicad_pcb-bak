@@ -541,7 +541,7 @@
     )
   )
 
-  (gr_text "DIN RAIL\nINRUSH CURRENT LIMIT SLIM" (at 137.541 101.854 -180) (layer F.SilkS)
+  (gr_text "DIN RAIL\nINRUSH CURRENT LIMITER SLIM" (at 137.541 101.854 -180) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
   (gr_text OUTPUT (at 167.259 119.126) (layer F.SilkS)
