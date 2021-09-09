@@ -1,0 +1,49 @@
+(export (version D)
+  (design
+    (source /home/oportunidad/Desktop/repos/DIN_RAIL_CIRCUITS/ETH_HUB_PLATE_SLIM/ETH_HUB_PLATE_SLIM.sch)
+    (date "mié 08 sep 2021 22:16:40")
+    (tool "Eeschema 5.1.5+dfsg1-2build2")
+    (sheet (number 1) (name /) (tstamps /)
+      (title_block
+        (title)
+        (company)
+        (rev)
+        (date)
+        (source ETH_HUB_PLATE_SLIM.sch)
+        (comment (number 1) (value ""))
+        (comment (number 2) (value ""))
+        (comment (number 3) (value ""))
+        (comment (number 4) (value "")))))
+  (components
+    (comp (ref J1)
+      (value Conn_01x01_Male)
+      (footprint Connector_PinHeader_2.54mm:PinHeader_1x01_P2.54mm_Vertical)
+      (datasheet ~)
+      (libsource (lib Connector) (part Conn_01x01_Male) (description "Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"))
+      (sheetpath (names /) (tstamps /))
+      (tstamp 61397CC5))
+    (comp (ref J2)
+      (value Conn_01x01_Male)
+      (footprint Connector_PinHeader_2.54mm:PinHeader_1x01_P2.54mm_Vertical)
+      (datasheet ~)
+      (libsource (lib Connector) (part Conn_01x01_Male) (description "Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"))
+      (sheetpath (names /) (tstamps /))
+      (tstamp 61397EE7)))
+  (libparts
+    (libpart (lib Connector) (part Conn_01x01_Male)
+      (description "Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)")
+      (docs ~)
+      (footprints
+        (fp Connector*:*))
+      (fields
+        (field (name Reference) J)
+        (field (name Value) Conn_01x01_Male))
+      (pins
+        (pin (num 1) (name Pin_1) (type passive)))))
+  (libraries
+    (library (logical Connector)
+      (uri /usr/share/kicad/library/Connector.lib)))
+  (nets
+    (net (code 1) (name "Net-(J1-Pad1)")
+      (node (ref J1) (pin 1))
+      (node (ref J2) (pin 1)))))

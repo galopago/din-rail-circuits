@@ -14,23 +14,23 @@ Comment3 ""
 Comment4 ""
 $EndDescr
 $Comp
-L Connector:Conn_01x01_Male J1
+L Connector:Conn_01x01_Male J?
 U 1 1 61397CC5
 P 5100 3450
-F 0 "J1" H 5208 3631 50  0000 C CNN
+F 0 "J?" H 5208 3631 50  0000 C CNN
 F 1 "Conn_01x01_Male" H 5208 3540 50  0000 C CNN
-F 2 "Connector_PinHeader_2.54mm:PinHeader_1x01_P2.54mm_Vertical" H 5100 3450 50  0001 C CNN
+F 2 "" H 5100 3450 50  0001 C CNN
 F 3 "~" H 5100 3450 50  0001 C CNN
 	1    5100 3450
 	1    0    0    -1  
 $EndComp
 $Comp
-L Connector:Conn_01x01_Male J2
+L Connector:Conn_01x01_Male J?
 U 1 1 61397EE7
 P 5100 3950
-F 0 "J2" H 5208 4131 50  0000 C CNN
+F 0 "J?" H 5208 4131 50  0000 C CNN
 F 1 "Conn_01x01_Male" H 5208 4040 50  0000 C CNN
-F 2 "Connector_PinHeader_2.54mm:PinHeader_1x01_P2.54mm_Vertical" H 5100 3950 50  0001 C CNN
+F 2 "" H 5100 3950 50  0001 C CNN
 F 3 "~" H 5100 3950 50  0001 C CNN
 	1    5100 3950
 	1    0    0    -1  
