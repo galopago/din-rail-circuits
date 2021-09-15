@@ -8,4 +8,4 @@ Read this in other languages: [Español](docs/README.es.md)
 The projects were developed in KiCad V5.1
 
 ## License
-This is an Open Hardware project an is licensed under a [Creative Commons Attribution 4.0 International License](creativecommons.org/licenses/by/4.0/)
+This is an Open Hardware project an is licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/)
