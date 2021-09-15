@@ -8,6 +8,6 @@ Read this in other languages: [Español](docs/README.es.md)
 The projects were developed in KiCad V5.1
 
 ## License
-[![Foo](http://www.google.com.au/images/nav_logo7.png)](http://google.com.au/)
+[![Foo](https://i.creativecommons.org/1/by/4.0/88x31.png)](https://creativecommons.org/licenses/by/4.0/)
 
 This is an Open Hardware project an is licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/)
