@@ -2,7 +2,7 @@
 
 Collection of DIN RAIL mountable circuits!
 
-Read this in other languages: [Español](../docs/README.es.md)
+Read this in other languages: [Español](../tree/main/docs/README.es.md)
 ## How to use this repository
 
 The projects were developed in KiCad V5.1
