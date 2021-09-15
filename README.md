@@ -1,6 +1,7 @@
 # DIN RAIL CIRCUITS
 
 Collection of DIN RAIL mountable circuits!
+[![DIN-RAIL](docs/dinrailcircuits.png)]
 
 Read this in other languages: [Español](docs/README.es.md)
 ## How to use this repository
