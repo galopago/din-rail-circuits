@@ -6,7 +6,7 @@ Placa mara montaje en riel Din para switch ethernet OEM (marca? modelo?) de 3 pu
 
 ![PIECES](docs/dinethswitchslimpieces.png)
 
-Lea esto en otros idiomas: [English](docs/README.es.md)
+Lea esto en otros idiomas: [English](../README.md)
 ## Como usar este repositorio
 
 El proyecto esta desarrollado en KiCad V5.1

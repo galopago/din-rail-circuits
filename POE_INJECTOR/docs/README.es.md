@@ -6,7 +6,7 @@ Inyector PoE pasivo montable en riel din. Hasta 48V, led indicador, proteccion p
 
 ![PIECES](dinpoepieces.png)
 
-Lea esto en otros idiomas: [English](docs/README.es.md)
+Lea esto en otros idiomas: [English](../README.md)
 ## Como usar este repositorio
 
 El proyecto esta desarrollado en KiCad V5.1
