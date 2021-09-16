@@ -5,7 +5,7 @@ Limitador de corriente de entrada, para montaje en riel din. delgado 20 x 72 mm 
 ![3D](inrushcurrent3d.png)
 
 
-Lea esto en otros idiomas: [English](docs/README.es.md)
+Lea esto en otros idiomas: [English](docs/README.md)
 ## Como usar este repositorio
 
 El proyecto esta desarrollado en KiCad V5.1
