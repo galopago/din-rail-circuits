@@ -1,4 +1,4 @@
-# DIN RAIL PASSIVE POE INJECTOR SLIM
+# INYECTOR PASIVO POE DELGADO PARA RIEL DIN 
 
 Inyector PoE pasivo montable en riel din. Delgado 20 x 72 mm aprox. Hasta 48V, led indicador, 1.1 A 72V proteccion por fusible rearmable.
 
@@ -15,7 +15,7 @@ El proyecto esta desarrollado en KiCad V5.1
 
 * El directorio raiz contiene los archivos de KiCad: proyecto, esquematico y PCB.
 * El directorio gerber/single contiene de fabricacion para una sola tarjeta.
-* El directorio gerber/panel_100mmx100mm contiene archivos de fabricacion para multiples tarjetas panelizadas en un espacio maximo de 100mm x 100mm (usa Vcuts!).
+* El directorio gerber/panel contiene archivos de fabricacion para multiples tarjetas panelizadas en un espacio maximo de 100mm x 100mm (usa Vcuts!).
 * El directorio docs contiene archivos adicionales
 
 ## Licencia
