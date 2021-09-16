@@ -1,6 +1,6 @@
 # INYECTOR PASIVO POE DELGADO PARA RIEL DIN 
 
-Inyector PoE pasivo montable en riel din. Delgado 20 x 72 mm aprox. Hasta 48V, led indicador, 1.1 A 72V proteccion por fusible rearmable.
+Inyector PoE pasivo montable en riel din. Delgado 20 x 72 mm aprox. Hasta 48V, led indicador, proteccion por fusible rearmable 1.1 A 72V.
 
 ![DIN-RAIL](dinpoeslimrail.png.png)
 
