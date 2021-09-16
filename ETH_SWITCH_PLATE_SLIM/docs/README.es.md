@@ -2,9 +2,9 @@
 
 Placa mara montaje en riel Din para switch ethernet OEM (marca? modelo?) de 3 puertos. Delgado 26 x 60 mm. Alimentacion de 5 a 12V DC
 
-![DIN-RAIL](docs/dinethswitchslimrail.png)
+![DIN-RAIL](dinethswitchslimrail.png)
 
-![PIECES](docs/dinethswitchslimpieces.png)
+![PIECES](dinethswitchslimpieces.png)
 
 Lea esto en otros idiomas: [English](../README.md)
 ## Como usar este repositorio
