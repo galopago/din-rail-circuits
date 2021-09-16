@@ -1,10 +1,10 @@
 # DIN RAIL 3 PORT ETHERNET SWITCH SLIM
 
-OEM (no brand? no model?) 3 port ethernet switchPassive PoE injector, din rail mountable. Up to 48V, led indicator, 1.1 A 72V polyfuse protection.
+OEM (no brand? no model?) 3 port ethernet switch, din rail mountable. Slim xx yy 5-12V DC power.
 
-![DIN-RAIL](docs/dinhubslimrail.png)
+![DIN-RAIL](docs/dinethswitchslimrail.png)
 
-![PIECES](docs/dinhubslimpieces.png)
+![PIECES](docs/dinethswitchslimpieces.png)
 
 Read this in other languages: [Español](docs/README.es.md)
 ## How to use this repository
