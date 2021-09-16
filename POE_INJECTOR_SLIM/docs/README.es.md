@@ -6,7 +6,7 @@ Inyector PoE pasivo montable en riel din. Delgado 20 x 72 mm aprox. Hasta 48V, l
 
 ![PIECES](dinpoeslimpieces.png)
 
-Lea esto en otros idiomas: [English](./README.es)
+Lea esto en otros idiomas: [English](../README.md)
 ## Como usar este repositorio
 
 El proyecto esta desarrollado en KiCad V5.1
