@@ -1,6 +1,6 @@
 # LIMITADOR DE CORRIENTE DE ENTRADA DELGADO PARA RIEL DIN.
 
-Limitador de corriente de entrada, dipara montaje en riel din. delgado 20 x 72 mm aprox. Compatible con NTC 20D y 15D.
+Limitador de corriente de entrada, para montaje en riel din. delgado 20 x 72 mm aprox. Compatible con NTC 20D y 15D.
 
 ![3D](inrushcurrent3d.png)
 
