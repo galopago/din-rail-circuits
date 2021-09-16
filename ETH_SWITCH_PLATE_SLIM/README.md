@@ -1,6 +1,6 @@
 # DIN RAIL 3 PORT ETHERNET SWITCH SLIM
 
-OEM (no brand? no model?) 3 port ethernet switch, din rail mountable. Slim xx yy 5-12V DC power.
+Din rail plate for OEM (no brand? no model?) 3 port ethernet switch. Slim 26 x 60mm. 5-12V DC power.
 
 ![DIN-RAIL](docs/dinethswitchslimrail.png)
 
@@ -15,7 +15,6 @@ The project is developed in KiCad V5.1
 
 * The root folder contains KiCad files: project, schematic and PCB
 * gerber/single directory contains ready to manufacture files, for a single board.
-* gerber/panel_100mmx100mm directory contains ready to manufacture files that fits in a 100mm x 100mm panel (use Vcuts!).
 * docs additional files
 
 ## License
