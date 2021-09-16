@@ -2,9 +2,9 @@
 
 Passive PoE injector, din rail mountable. Up to 48V, led indicator, 1.1 A 72V polyfuse protection.
 
-![DIN-RAIL](docs/dinpoeslimrail.png.png)
+![DIN-RAIL](docs/dinpoerail.png)
 
-![PIECES](docs/dinpoeslimpieces.png)
+![PIECES](docs/dinpoepieces.png)
 
 Read this in other languages: [Español](docs/README.es.md)
 ## How to use this repository
