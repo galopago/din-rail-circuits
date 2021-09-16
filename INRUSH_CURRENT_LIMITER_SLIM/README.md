@@ -5,7 +5,7 @@ Inrush current limiter, din rail mountable. slim 20 x 72 mm aprox. Compatible wi
 ![3D](docs/inrushcurrent3d.png)
 
 
-Read this in other languages: [Español](../README.md)
+Read this in other languages: [Español](docs/README.es.md)
 ## How to use this repository
 
 The project is developed in KiCad V5.1
