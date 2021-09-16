@@ -1,24 +1,24 @@
 # DIN RAIL PASSIVE POE INJECTOR SLIM
 
-Passive PoE injector, din rail mountable. slim 20 x 72 mm aprox. Up to 48V, led indicator, 1.1 A 72V polyfuse protection.
+Inyector PoE pasivo montable en riel din. Delgado 20 x 72 mm aprox. Hasta 48V, led indicador, 1.1 A 72V proteccion por fusible rearmable.
 
 ![DIN-RAIL](dinpoeslimrail.png.png)
 
 ![PIECES](dinpoeslimpieces.png)
 
-Read this in other languages: [Español](docs/README.es.md)
-## How to use this repository
+Lea esto en otros idiomas: [Español](docs/README.es.md)
+## Como usar este repositorio
 
-The project is developed in KiCad V5.1
+El proyecto esta desarrollado en KiCad V5.1
 
-## Directory structure
+## Estructura de directorios
 
-* The root folder contains KiCad files: project, schematic and PCB
-* gerber/single directory contains ready to manufacture files, for a single board.
-* gerber/panel_100mmx100mm directory contains ready to manufacture files that fits in a 100mm x 100mm panel (use Vcuts!).
-* docs additional files
+* El directorio raiz contiene los archivos de KiCad: proyecto, esquematico y PCB.
+* El directorio gerber/single contiene de fabricacion para una sola tarjeta.
+* El directorio gerber/panel_100mmx100mm contiene archivos de fabricacion para multiples tarjetas panelizadas en un espacio maximo de 100mm x 100mm (usa Vcuts!).
+* El directorio docs contiene archivos adicionales
 
-## License
+## Licencia
 [![CC-BY](https://i.creativecommons.org/l/by/4.0/88x31.png)](https://creativecommons.org/licenses/by/4.0/)
 
-This is an Open Hardware project an is licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/)
+Este es un proyecto de Hardware Libre y esta licenciado bajo una licencia [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/)
