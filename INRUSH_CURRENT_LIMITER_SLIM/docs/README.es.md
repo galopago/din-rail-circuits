@@ -2,7 +2,7 @@
 
 Limitador de corriente de entrada, dipara montaje en riel din. delgado 20 x 72 mm aprox. Compatible con NTC 20D y 15D.
 
-![3D](docs/inrushcurrent3d.png)
+![3D](inrushcurrent3d.png)
 
 
 Lea esto en otros idiomas: [English](docs/README.es.md)
