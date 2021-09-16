@@ -11,6 +11,13 @@ Read this in other languages: [Español](docs/README.es.md)
 
 The projects were developed in KiCad V5.1
 
+## Directory structure
+
+*The root folder contains KiCad files: project, schematic and PCB
+*gerber/single directory contains ready to manufacture files, for a single board.
+*gerber/panel_100mmx100mm directory contains ready to manufacture files that fits in a 100mm x 100mm panel (use Vcuts!).
+*docs additional files
+
 ## License
 [![CC-BY](https://i.creativecommons.org/l/by/4.0/88x31.png)](https://creativecommons.org/licenses/by/4.0/)
 
