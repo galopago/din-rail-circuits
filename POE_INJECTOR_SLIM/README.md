@@ -1,6 +1,6 @@
 # DIN RAIL PASSIVE POE INJECTOR SLIM
 
-Collection of DIN RAIL mountable circuits!
+Passive PoE injector, din rail mountable. slim 20 x 72 mm aprox. Up to 48V,led indicator, 1.1 A 72V polyfuse protection.
 
 ![DIN-RAIL](docs/dinpoeslimrail.png.png)
 
@@ -9,7 +9,7 @@ Collection of DIN RAIL mountable circuits!
 Read this in other languages: [Español](docs/README.es.md)
 ## How to use this repository
 
-The projects were developed in KiCad V5.1
+The project is developed in KiCad V5.1
 
 ## Directory structure
 
