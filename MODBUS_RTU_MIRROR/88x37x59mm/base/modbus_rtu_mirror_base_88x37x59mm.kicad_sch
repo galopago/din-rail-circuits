@@ -1178,6 +1178,11 @@
     (uuid ff719276-5722-4042-8cc5-494ee9088024)
   )
 
+  (text "To side board" (at 81.28 83.82 0)
+    (effects (font (size 1.27 1.27)) (justify left bottom))
+    (uuid 1ee67d0c-47f7-4858-9a75-feed52df305b)
+  )
+
   (label "RS485_1_B" (at 143.51 111.76 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 14e50051-ba95-481e-a329-1fce197ac4b5)
