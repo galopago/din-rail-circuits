@@ -5,6 +5,10 @@
   )
 
   (paper "A4")
+  (title_block
+    (title "Modbus RTU mirror base board")
+  )
+
   (layers
     (0 "F.Cu" signal)
     (31 "B.Cu" signal)
@@ -1463,10 +1467,10 @@
   (gr_line (start 133 100) (end 133 101.5) (layer "Edge.Cuts") (width 0.1) (tstamp d49a29d0-ca74-44ad-9e06-01309524333f))
   (gr_line (start 133 131) (end 133 129.5) (layer "Edge.Cuts") (width 0.1) (tstamp f624911a-a277-463f-b82e-350fdae75faf))
   (gr_line (start 149 100) (end 182 100) (layer "Edge.Cuts") (width 0.1) (tstamp f94a106e-748c-4421-8f79-ff11f2d9ba58))
-  (gr_text "MODBUS RTU MIRROR\nBASE" (at 113.157 101.6) (layer "B.SilkS") (tstamp b456a3ab-3851-4439-831a-e7515387c7ec)
+  (gr_text "MODBUS RTU MIRROR\nBASE BOARD" (at 113.157 101.6) (layer "B.SilkS") (tstamp b456a3ab-3851-4439-831a-e7515387c7ec)
     (effects (font (size 0.8 0.8) (thickness 0.2)) (justify left mirror))
   )
-  (gr_text "MODBUS RTU MIRROR\nBASE" (at 100.33 101.473) (layer "F.SilkS") (tstamp 03be5ce5-b390-4f7e-a1e4-b02912606952)
+  (gr_text "MODBUS RTU MIRROR\nBASE BOARD" (at 100.33 101.473) (layer "F.SilkS") (tstamp 03be5ce5-b390-4f7e-a1e4-b02912606952)
     (effects (font (size 0.8 0.8) (thickness 0.2)) (justify left))
   )
   (gr_text "EN1" (at 134.874 103.632 90) (layer "F.SilkS") (tstamp 0a05d26e-d33b-45fa-a520-cd5da978ba62)

@@ -4,6 +4,10 @@
 
   (paper "A4")
 
+  (title_block
+    (title "Modbus RTU mirror base board")
+  )
+
   (lib_symbols
     (symbol "Connector:Conn_01x02_Female" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
       (property "Reference" "J" (id 0) (at 0 2.54 0)
