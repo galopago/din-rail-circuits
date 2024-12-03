@@ -3359,7 +3359,7 @@
     (uuid dc7af683-2c85-4d4e-8d40-70498e51a028)
     (property "Reference" "D1" (id 0) (at 237.1725 31.75 0))
     (property "Value" "LED" (id 1) (at 237.1725 34.29 0))
-    (property "Footprint" "LED_THT:LED_D3.0mm" (id 2) (at 238.76 38.1 0)
+    (property "Footprint" "LED_THT_horizontal_holder:LED_D3.0mm_4.5x9.5mm" (id 2) (at 238.76 38.1 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 238.76 38.1 0)
@@ -3722,7 +3722,7 @@
       (reference "C9") (unit 1) (value "100nF") (footprint "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder")
     )
     (path "/dc7af683-2c85-4d4e-8d40-70498e51a028"
-      (reference "D1") (unit 1) (value "LED") (footprint "LED_THT:LED_D3.0mm")
+      (reference "D1") (unit 1) (value "LED") (footprint "LED_THT_horizontal_holder:LED_D3.0mm_4.5x9.5mm")
     )
     (path "/5f47507c-41a1-4dac-9fb1-1387dec1beee"
       (reference "D2") (unit 1) (value "LED") (footprint "LED_THT:LED_D3.0mm")

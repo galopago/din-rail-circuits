@@ -1,3 +1,4 @@
 (fp_lib_table
   (lib (name "Battery_rtc")(type "KiCad")(uri "${KIPRJMOD}/library/Battery_rtc.pretty")(options "")(descr ""))
+  (lib (name "LED_THT_horizontal_holder")(type "KiCad")(uri "${KIPRJMOD}/library/LED_THT_horizontal_holder.pretty")(options "")(descr ""))
 )
