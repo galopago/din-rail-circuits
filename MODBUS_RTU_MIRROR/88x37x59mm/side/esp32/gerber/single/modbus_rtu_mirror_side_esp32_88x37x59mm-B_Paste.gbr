@@ -1,12 +1,12 @@
 %TF.GenerationSoftware,KiCad,Pcbnew,6.0.11-2627ca5db0~126~ubuntu20.04.1*%
-%TF.CreationDate,2024-10-06T15:46:28-05:00*%
-%TF.ProjectId,modbus_rtu_mirror_side_88x37x59mm,6d6f6462-7573-45f7-9274-755f6d697272,rev?*%
+%TF.CreationDate,2025-02-01T21:45:14-05:00*%
+%TF.ProjectId,modbus_rtu_mirror_side_esp32_88x37x59mm,6d6f6462-7573-45f7-9274-755f6d697272,rev?*%
 %TF.SameCoordinates,Original*%
 %TF.FileFunction,Paste,Bot*%
 %TF.FilePolarity,Positive*%
 %FSLAX46Y46*%
 G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
-G04 Created by KiCad (PCBNEW 6.0.11-2627ca5db0~126~ubuntu20.04.1) date 2024-10-06 15:46:28*
+G04 Created by KiCad (PCBNEW 6.0.11-2627ca5db0~126~ubuntu20.04.1) date 2025-02-01 21:45:14*
 %MOMM*%
 %LPD*%
 G01*
