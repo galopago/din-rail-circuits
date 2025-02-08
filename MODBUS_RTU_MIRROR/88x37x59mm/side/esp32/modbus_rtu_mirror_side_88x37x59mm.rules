@@ -11,7 +11,7 @@
     (via_costs 50)
     (plane_via_costs 5)
     (start_ripup_costs 100)
-    (start_pass_no 5544)
+    (start_pass_no 6961)
     (layer_rule F.Cu
       (active on)
       (preferred_direction horizontal)
@@ -53,14 +53,14 @@
     "kicad_default" "Via[0-1]_800:400_um-kicad_default"
   )
   (class default
-    "unconnected-(U1-Pad4)" "unconnected-(U1-Pad5)" "unconnected-(U1-Pad6)" "unconnected-(U1-Pad7)" "unconnected-(U1-Pad10)" "unconnected-(U1-Pad11)" "unconnected-(U1-Pad13)" "unconnected-(U1-Pad14)"
-    "unconnected-(U1-Pad16)" "unconnected-(U1-Pad17)" "unconnected-(U1-Pad18)" "unconnected-(U1-Pad19)" "unconnected-(U1-Pad20)" "unconnected-(U1-Pad21)" "unconnected-(U1-Pad22)" "unconnected-(U1-Pad23)"
-    "unconnected-(U1-Pad24)" "unconnected-(U1-Pad29)" "unconnected-(U1-Pad32)" "unconnected-(U1-Pad36)" GND +3.3V +5V "unconnected-(U4-Pad1)"
-    "unconnected-(U4-Pad3)" "unconnected-(U4-Pad4)" "Net-(D1-Pad1)" "Net-(D2-Pad1)" "/STP_LED" "Net-(D3-Pad1)" "/TX2_LED" "Net-(U1-Pad31)"
-    "Net-(D4-Pad1)" "Net-(D5-Pad1)" "Net-(D6-Pad1)" "/RX2_LED" "/TX1_LED" "/RX1_LED" +BATT "/STP_SW"
-    "/ESP_TXD" "/ESP_RXD" "/ESP_EN" "/ESP_IO0" "Net-(U1-Pad27)" "/I2C0_SDA" "/I2C0_SCL" "unconnected-(U2-Pad8)"
-    "unconnected-(U2-Pad9)" "unconnected-(U2-Pad12)" "unconnected-(U2-Pad13)" "Net-(J1-Pad1)" "Net-(J1-Pad2)" "Net-(J1-Pad3)" "Net-(J1-Pad4)" "Net-(J2-Pad3)"
-    "Net-(J2-Pad4)" "Net-(R1-Pad2)" "Net-(R10-Pad2)"
+    "/ESP_IO39" "/ESP_IO36" "unconnected-(U1-Pad17)" "unconnected-(U1-Pad18)" "unconnected-(U1-Pad19)" "unconnected-(U1-Pad20)" "unconnected-(U1-Pad21)" "unconnected-(U1-Pad22)"
+    "unconnected-(U1-Pad23)" "unconnected-(U1-Pad24)" "unconnected-(U1-Pad29)" "unconnected-(U1-Pad32)" "Net-(J1-Pad1)" GND +3.3V +5V
+    "unconnected-(U4-Pad1)" "unconnected-(U4-Pad3)" "unconnected-(U4-Pad4)" "Net-(D1-Pad1)" "Net-(D2-Pad1)" "/STP_LED" "Net-(D3-Pad1)" "/TX2_LED"
+    "Net-(U1-Pad31)" "Net-(D4-Pad1)" "Net-(D5-Pad1)" "Net-(D6-Pad1)" "/RX2_LED" "/TX1_LED" "/RX1_LED" +BATT
+    "/STP_SW" "/ESP_TXD" "/ESP_RXD" "/ESP_EN" "/ESP_IO0" "Net-(U1-Pad27)" "/I2C0_SDA" "/I2C0_SCL"
+    "unconnected-(U2-Pad8)" "unconnected-(U2-Pad9)" "unconnected-(U2-Pad12)" "unconnected-(U2-Pad13)" "Net-(J1-Pad2)" "Net-(J1-Pad3)" "Net-(J1-Pad4)" "Net-(J2-Pad3)"
+    "Net-(J2-Pad4)" "Net-(R1-Pad2)" "Net-(R10-Pad2)" "/ESP_IO13" "/ESP_IO14" "/ESP_IO22" "unconnected-(J5-Pad1)" "unconnected-(J5-Pad2)"
+    "unconnected-(J5-Pad3)" "unconnected-(J5-Pad4)" "/ESP_IO25" "/ESP_IO26" "/ESP_IO23" "/ESP_IO27" "/ESP_IO34"
     (clearance_class default)
     (via_rule default)
     (rule
